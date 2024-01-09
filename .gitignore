@@ -1,0 +1,20 @@
+.vs/
+        bin/Debug/net7.0/Accord.DataSets.dll
+        bin/Debug/net7.0/Accord.IO.dll
+        bin/Debug/net7.0/Accord.MachineLearning.dll
+        bin/Debug/net7.0/Accord.Math.Core.dll
+        bin/Debug/net7.0/Accord.Math.dll
+        bin/Debug/net7.0/Accord.Statistics.dll
+        bin/Debug/net7.0/Accord.dll
+        bin/Debug/net7.0/Accord.dll.config
+        bin/Debug/net7.0/Data/
+        bin/Debug/net7.0/MNIST.deps.json
+        bin/Debug/net7.0/MNIST.dll
+        bin/Debug/net7.0/MNIST.exe
+        bin/Debug/net7.0/MNIST.pdb
+        bin/Debug/net7.0/MNIST.runtimeconfig.json
+        bin/Debug/net7.0/SharpZipLib.NETStandard.dll
+        bin/Debug/net7.0/System.ServiceModel.dll
+        bin/Debug/net7.0/mnist
+        bin/Debug/net7.0/mnist.t
+        obj/
